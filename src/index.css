@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #ff4b4b; /* Red */
+  --secondary-color: #0000ff; /* Blue */
+  --available-color: blue;
+  --not-available-color: red;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: #333;
+}
